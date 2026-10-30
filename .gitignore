@@ -1,0 +1,11 @@
+data/
+outputs/
+kaggle/
+Paper/
+paper_curation/
+*.pdf
+*.tex
+*.bib
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
